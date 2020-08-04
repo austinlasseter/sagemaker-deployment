@@ -9,13 +9,13 @@
 | 1     | Welcome      | NA       | https://youtu.be/jQ2IZzga8Nw       |
 | 2 | What's ahead  | NA  | NA  |
 | 3 | Problem Introduction  | NA  | https://youtu.be/-ZtVV7RvGYY  |
-| 4 | Machine Learning Workflow | NA | Machine Learning Workflow |
+| 4 | Machine Learning Workflow | NA | https://youtu.be/ku_96X6TZas |
 | 5 | Quiz | NA | - |
 | 6 | What is cloud computing | NA | - |
 | 7 | Quiz | NA | - |
 | 8 | ML Applications | NA | https://youtu.be/Q4rgQo6ofoc |
 | 9 | Quiz | NA | - |
-| 10 | Paths to Deployment | NA | - |
+| 10 | Paths to Deployment | NA | 3-10-paths.md |
 | 11 | Quiz | NA | - |
 | 12 | Production Environments | NA | https://youtu.be/BH23Me3bbF4 |
 | 13 | Quiz | NA | - |

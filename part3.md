@@ -69,3 +69,39 @@
 | 10 | Building an API | NA | https://youtu.be/AzBQ-aDQSG4 |
 | 11 | Using the Final Web Application | [HTML File](https://github.com/austinlasseter/sagemaker-deployment/blob/master/Tutorials/index.html) | https://youtu.be/VgG41Q_a15I |
 | 12 | Summary | NA | - |
+
+## Lesson 3-4: Hyperparameter Tuning
+
+| Number      | Title      | Notebook      | Video |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Welcome | Notebook | https://youtu.be/ohVX3RUTghg |
+| 2 | Introduction to Hyperparameter Tuning | Notebook | https://youtu.be/nah8kxqp55U |
+| 3 | Boston Housing Example | Notebook | https://youtu.be/lsYRtKivrGc |
+| 4 | Mini-Project: Tuning the Sentiment Analysis Model | Notebook | https://youtu.be/7XORMSX7vAY |
+| 5| Solutions A | Notebook | https://youtu.be/Q2Vthdca49I |
+| 6 | Solutions B | Notebook | https://youtu.be/i-EjGkZ8z30 |
+| 7 | Boston Housing In-Depth | Notebook | https://youtu.be/vlsZ-jC5C8Y |
+| 8 | Monitoring | Notebook | https://youtu.be/WXjIkSHYEyM |
+| 9 | Testing | Notebook | https://youtu.be/ap7d7DZL0Ic |
+| 10 | Summary | Notebook | Video |
+
+## Lesson 3-5: Updating a Model
+
+| Number      | Title      | Notebook      | Video |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Welcome | Notebook | https://youtu.be/7wI168JzBiU |
+| 2 | Building a Sentiment Analysis Model A | Notebook | https://youtu.be/dwRkA0ig3uU |
+| 3 | Building a Sentiment Analysis Model B | Notebook | https://youtu.be/7TdiVF6qS1k |
+| 4 | Combining the Models | Notebook | https://youtu.be/OYYJerDHu0o |
+| 5| Updating a Sentiment Analysis Model | Notebook | https://youtu.be/v7dYwxuKXzI |
+| 6 | Loading & Testing New Dataa | Notebook | https://youtu.be/75RxW3R6674 |
+| 7 | Exploring New Data | Notebook | https://youtu.be/sEBK1dmiUfE |
+| 8 | Building a New Model | Notebook | https://youtu.be/RUVxrKcWAsU |
+| 9 | Cleaning Up | Notebook | https://youtu.be/8z24cb3EfMc |
+| 10 | Tips and Tricks | Notebook | https://youtu.be/ilnX9rUlV_w |
+
+## Lesson 3-6: Project - Deploy a Sentiment Analysis Model
+
+| Number      | Title      | Notebook      | Video |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Welcome | Notebook | https://youtu.be/LWcJtUKVkzo |

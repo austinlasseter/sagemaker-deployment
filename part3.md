@@ -11,25 +11,29 @@
 | 3 | Problem Introduction  | NA  | https://youtu.be/-ZtVV7RvGYY  |
 | 4 | Machine Learning Workflow | NA | https://youtu.be/ku_96X6TZas |
 | 5 | Quiz | NA | - |
-| 6 | What is cloud computing | NA | - |
+| 6 | What is cloud computing | 1-6-cloud.md | - |
 | 7 | Quiz | NA | - |
 | 8 | ML Applications | NA | https://youtu.be/Q4rgQo6ofoc |
 | 9 | Quiz | NA | - |
-| 10 | Paths to Deployment | NA | 3-10-paths.md |
+| 10 | Paths to Deployment | NA | 1-10-paths.md |
 | 11 | Quiz | NA | - |
 | 12 | Production Environments | NA | https://youtu.be/BH23Me3bbF4 |
 | 13 | Quiz | NA | - |
 | 14 | Endpoints | NA | - |
 | 15 | Quiz | NA | - |
-| 16 | Containers | NA | - |
+| 16 | Containers | 1-16-containers.md | - |
 | 17 | Quiz | NA | - |
 | 18 | Expert Interview | NA | https://youtu.be/XimuK3WHOH4 |
 | 19 | Characteristics of Deployment and Modeling | NA | - |
 | 20 | Quiz | NA | - |
-| 21 | Comparing Cloud Providers | NA | - |
+| 21 | Comparing Cloud Providers | 1-21-compare-providers.md | - |
 | 22 | Quiz | NA | - |
 | 23 | Closing | NA | https://youtu.be/fXl_MCYzcOU |
 | 24 | Summary | NA | - |
+| 25 | Cloud Computing Defined | 1-25-cloud.md | - |
+| 26 | Cloud Computing Explained | 1-26-cloud.md | - |
+
+
 
 ## Lesson 3-2: Building a Model using SageMaker
 
